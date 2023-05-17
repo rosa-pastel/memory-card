@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.36ef50e9.css",
+    "main.js": "/react-gh-pages/static/js/main.2dbdfc2c.js",
+    "static/media/La_Grenouillére.webp": "/react-gh-pages/static/media/La_Grenouillére.648d8bddd7ef541979b1.webp",
+    "static/media/Japanese_Bridge.1.jpg": "/react-gh-pages/static/media/Japanese_Bridge.1.47d0970857b028e0a5be.jpg",
+    "static/media/Rouen_Cathedral,_Facade.webp": "/react-gh-pages/static/media/Rouen_Cathedral,_Facade.22caeaa70fcf86830ae3.webp",
+    "static/media/Woman_with_a_Parasol.webp": "/react-gh-pages/static/media/Woman_with_a_Parasol.4a4e38814af0d6b7d5a6.webp",
+    "static/media/Japanese_Bridge.2.webp": "/react-gh-pages/static/media/Japanese_Bridge.2.62e7ec38ced9a644f736.webp",
+    "static/media/Lillies.2.jpg": "/react-gh-pages/static/media/Lillies.2.6c7d80877955c594e4b3.jpg",
+    "static/media/San_Giorgio_Maggiore_at_Dusk.jpg": "/react-gh-pages/static/media/San_Giorgio_Maggiore_at_Dusk.7c0048198245b2008a48.jpg",
+    "static/media/Haystacks.jpg": "/react-gh-pages/static/media/Haystacks.8c8829cc26d7a50a2553.jpg",
+    "static/media/Lillies.1.webp": "/react-gh-pages/static/media/Lillies.1.b67092a61eb65ea32032.webp",
+    "static/media/Saint_Lazare_Station.webp": "/react-gh-pages/static/media/Saint_Lazare_Station.4ad433bb9c7cd42b8f13.webp",
+    "static/media/museum.avif": "/react-gh-pages/static/media/museum.33c08aa04c348f1d28d5.avif",
+    "static/media/Impression,_Sunrise.webp": "/react-gh-pages/static/media/Impression,_Sunrise.1d0168d86dad2e38637a.webp",
+    "static/media/Lillies.3.jpg": "/react-gh-pages/static/media/Lillies.3.e8ce134427eaab64caf8.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.36ef50e9.css.map": "/react-gh-pages/static/css/main.36ef50e9.css.map",
+    "main.2dbdfc2c.js.map": "/react-gh-pages/static/js/main.2dbdfc2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36ef50e9.css",
+    "static/js/main.2dbdfc2c.js"
+  ]
+}
