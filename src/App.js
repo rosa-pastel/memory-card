@@ -1,25 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import { useState } from "react";
+import "./App.css";
+import Cards from "./components/cards";
+import Scoreboard from "./components/scoreboard";
 
-function App() {
+export default function App() {
+  const [score, setScore] = useState(0);
+  const [bestScore, setBestScore] = useState(0);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div id="game">
+      <div>
+        <div>
+          <Scoreboard score={score} bestScore={bestScore}></Scoreboard>
+          <h1>Monet Memory Game</h1>
+        </div>
+      </div>
+      <Cards
+        setScore={setScore}
+        setBestScore={setBestScore}
+        score={score}
+        bestScore={bestScore}
+      ></Cards>
     </div>
   );
 }
-
-export default App;
